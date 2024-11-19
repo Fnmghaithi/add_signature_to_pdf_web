@@ -46811,6 +46811,7 @@ else if(B.q.p(a,"9735"))return"\u0634\u0645\u0627\u0621 \u0627\u0644\u0634\u0627
 else if(B.q.p(a,"8954"))return"\u0639\u0627\u0626\u0634\u0629 \u0627\u0644\u0639\u0644\u0648\u064a\u0629"
 else if(B.q.p(a,"8516"))return"\u0623\u0645\u0644 \u0627\u0644\u0645\u0639\u0645\u0631\u064a"
 else if(B.q.p(a,"30329"))return"\u0646\u0627\u062c\u064a \u0627\u0644\u0631\u064a\u0633\u064a"
+else if(B.q.p(a,"7010"))return"\u0645\u062d\u0645\u062f \u0627\u0644\u0631\u0634\u064a\u062f\u064a"
 return a},
 abR(a,b,c){var s,r,q=A.EF(a,!0).c
 q.toString
